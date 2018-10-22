@@ -1,0 +1,6 @@
+framework module Pods_CieloSdkiOS_Example {
+  umbrella header "Pods-CieloSdkiOS_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

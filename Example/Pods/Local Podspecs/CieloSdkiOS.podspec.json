@@ -1,0 +1,22 @@
+{
+  "name": "CieloSdkiOS",
+  "version": "0.1.0",
+  "summary": "A short description of CieloSdkiOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gusmelki/CieloSdkiOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gusmelki": "gusmelki@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/gusmelki/CieloSdkiOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CieloSdkiOS/Classes/**/*"
+}

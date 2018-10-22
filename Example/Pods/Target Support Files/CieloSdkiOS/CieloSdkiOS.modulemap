@@ -1,0 +1,6 @@
+framework module CieloSdkiOS {
+  umbrella header "CieloSdkiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

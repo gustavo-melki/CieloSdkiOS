@@ -1,0 +1,16 @@
+PODS:
+  - CieloSdkiOS (0.1.0)
+
+DEPENDENCIES:
+  - CieloSdkiOS (from `../`)
+
+EXTERNAL SOURCES:
+  CieloSdkiOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CieloSdkiOS: 3d07e5a8207fb7568299de4db04885e4cc91b45b
+
+PODFILE CHECKSUM: 29fa21bb4b2517130e97b9c890946c199514acba
+
+COCOAPODS: 1.5.0

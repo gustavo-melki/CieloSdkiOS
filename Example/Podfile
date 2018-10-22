@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CieloSdkiOS_Example' do
+  pod 'CieloSdkiOS', :path => '../'
+
+  target 'CieloSdkiOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
